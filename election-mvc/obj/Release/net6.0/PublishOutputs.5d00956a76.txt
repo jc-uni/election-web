@@ -1,0 +1,7 @@
+C:\Users\jonas\Documents\Github\C#\election-web\election-mvc\obj\Release\net6.0\PubTmp\Out\election-mvc.exe
+C:\Users\jonas\Documents\Github\C#\election-web\election-mvc\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\jonas\Documents\Github\C#\election-web\election-mvc\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\jonas\Documents\Github\C#\election-web\election-mvc\obj\Release\net6.0\PubTmp\Out\election-mvc.dll
+C:\Users\jonas\Documents\Github\C#\election-web\election-mvc\obj\Release\net6.0\PubTmp\Out\election-mvc.deps.json
+C:\Users\jonas\Documents\Github\C#\election-web\election-mvc\obj\Release\net6.0\PubTmp\Out\election-mvc.runtimeconfig.json
+C:\Users\jonas\Documents\Github\C#\election-web\election-mvc\obj\Release\net6.0\PubTmp\Out\election-mvc.pdb
